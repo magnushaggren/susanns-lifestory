@@ -59,7 +59,7 @@ susanns-lifestory/
 
 ## Technology Stack
 
-- **Framework**: Next.js 15 with App Router
+- **Framework**: Next.js 16 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Maps**: Leaflet via react-leaflet
